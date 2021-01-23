@@ -1,2 +1,9 @@
-# jinmin_dev_container
- Jinmin's containers for different development environments
+# Development container for python and aws
+python3.8
+pytest
+awscli
+sam
+aws cdk
+nodejs
+cfn-lint
+cloudformation-guard

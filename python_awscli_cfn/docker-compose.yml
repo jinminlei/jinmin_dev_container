@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  jinmin-dev:
+    build: .
+    environment:
+      - AWS_PROFILE=default
+    volumes:
+      - ~/.aws/:/root/.aws:ro
+      - .:/code

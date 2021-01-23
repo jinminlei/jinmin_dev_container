@@ -9,7 +9,8 @@
 - cloudformation-guard
 
 # How to use
-- Clone the respository, enter the folder python_awscli_cfn
+- Run ```git clone https://github.com/jinminlei/jinmin_dev_container.git```
+- Run ```cd python_awscli_cfn```
 - Run 
 ```docker-compose up```
 - Run
